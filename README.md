@@ -1,5 +1,7 @@
 # Primal bot
 
+- Não é mais atualizado
+  
 Bom, meu antigo (Coloca antigo nisso) bot ajudante de servidor, Não fiz mais o uso dele então decidi deixa-lo Open-Source para quem quiser usar ele em seu servidor do discord!
 
 ## Como Usar
@@ -20,7 +22,7 @@ $ npm i
 
 - Por fim, inicie o projeto:
 ```sh
-$ nnode .
+$ node .
 ```
 
 ### Suporte
